@@ -1,3 +1,3 @@
 Project 5 of csc328. This program serves as the client for reading from an executable server on the localhost. The program 
 is to handle 1-10 packets from the server (though not hard coded to do so) with a maximum size of 65537 bytes. Packets are 
-sent with the first 2 bytes being the big endian format string byte size, followed by the string of varying length.
+sent with the first 2 bytes being the big endian format string byte size, followed by the string of varying length. 
