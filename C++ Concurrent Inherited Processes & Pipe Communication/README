@@ -1,2 +1,3 @@
 Project 4 of csc328. Project 4 uses C++ to create two pipes for reading and writing to pipes between a Parent and its Child process. Each send/receive of 
  data is outputted with its related information, such that every message sent has a corresponding send and receive message to command line and to the pipe. 
+ Search for memory leaks, including on Kutztown's server, and handle any found memory leaks before deleting final process links.
