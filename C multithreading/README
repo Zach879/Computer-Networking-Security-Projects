@@ -1,0 +1,2 @@
+Project 3 of csc328. Project 3 takes in four commands line arguments, validates the data, and uses multithreading to simultaneously 
+ process the accumulation of inputted values within subthreads. This program handles errors and gives feedback to the user.
