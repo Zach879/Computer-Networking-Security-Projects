@@ -1,0 +1,2 @@
+Project 6 of csc328. This program serves as the server for sending data to clients via ports. The program sends 1-10 packets to the client with a maximum 
+ size of 65537 bytes (per packet). Packets are sent with the first 2 bytes being the big endian string byte size, followed by the string of varying length.
